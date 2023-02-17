@@ -15,32 +15,35 @@
 
 <div align="center">
 
-<div>Languages<br>
+<div>
+    <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <div>
 
-<div>Database 
+<div>
+    <h3>Database</h3>
    
 </div>  
 
-<div>Backend<br>
+<div>
+ <h3>Backend</h3>
     <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 </div>
 
-<div>Frontend
-    <h5>db</h5>
+<div>
+    <h3>Frontend</h3>
 </div>
 
-<div>DevOps
-    <h5>db</h5>
+<div>
+    <h3>DevOps</h3>
 </div>
 
-<div>Tests
-    <h5>db</h5>
+<div>
+    <h3>Tests</h3>
 </div>
 
-<h2>Technical knowledge
-    <h5>db</h5>
+<h2>
+    <h3>Technical knowledge</h3>
 </h2>        
 
 <br>
