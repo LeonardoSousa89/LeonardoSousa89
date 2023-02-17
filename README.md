@@ -18,6 +18,11 @@
 # 👨‍💻 Languages and Tools
 
 <div>
+    <h3>Ide</h3>
+       <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fvs.png?alt=media&token=7bc284a8-6aa5-4bb2-a36c-217390517011" height="40" width="40">
+</div>
+
+<div>
     <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ftypescript.png?alt=media&token=9ab12670-544f-4817-a06b-ada54a3b1519" height="40" width="40">
@@ -45,10 +50,12 @@
 
 <div>
     <h3>DevOps</h3>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fdocker.png?alt=media&token=144ffcb0-422a-4915-85e5-345753285593" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fgit.png?alt=media&token=dd8a72c0-96f9-4d80-8cae-d2b3a9a23270" height="40" width="40">
 </div>
 
 <div>
-    <h3>Tests</h3>
+    <h3>Test</h3>
 </div>
 
 <div>
