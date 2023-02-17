@@ -1,4 +1,5 @@
 <!-- https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
+
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 
@@ -18,17 +19,16 @@
 
 <div>
     <h3>Languages</h3>
-    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
+    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
 <div>
 
 <div>
     <h3>Database</h3>
-   
 </div>  
 
 <div>
  <h3>Backend</h3>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="40" width="40">
 </div>
 
 <div>
