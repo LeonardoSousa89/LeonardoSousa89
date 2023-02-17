@@ -20,8 +20,7 @@
 <div>
     <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
-    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
-    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fjava.png?alt=media&token=66420305-e9bd-4e11-98bb-fc63449a8319" height="40" width="40">
 <div>
 
 <div>
