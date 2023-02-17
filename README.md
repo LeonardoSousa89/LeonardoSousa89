@@ -63,9 +63,7 @@
 
 # teste    
 <div align="center" >
- <div style="display: flex;">
-    <h5>elemento</h5>
-    <h5>elemento</h5>
-    <h5>elemento</h5>
- <div>
+    <h5 align="top">elemento</h5>
+    <h5 align="top">elemento</h5>
+    <h5 align="top">elemento</h5>
 </div>
