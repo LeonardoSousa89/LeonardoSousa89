@@ -15,12 +15,16 @@
 
 <div align="center">
 
+<h2>Languages
+    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<h2>
+
 <h2>Database 
-    <h5>db</h5>
+   
 </h2>  
 
 <h2>Backend
-    <h5>db</h5>
+    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 </h2>
 
 <h2>Frontend
@@ -38,11 +42,6 @@
 <h2>Technical knowledge
     <h5>db</h5>
 </h2>        
-<!-- <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60"> -->
 
 <br>
 
