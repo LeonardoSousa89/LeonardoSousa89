@@ -1,3 +1,3 @@
 git add .
-git commit -m '@v1.0.3'
+git commit -m '@v1.0.4'
 git push
