@@ -62,7 +62,7 @@
 </div>
 
 # teste    
-<div style="display: flex;justify-content: center; flex-direction: row;">
+<div display="flex" >
     <h5>elemento</h5>
     <h5>elemento</h5>
     <h5>elemento</h5>
