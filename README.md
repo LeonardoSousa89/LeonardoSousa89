@@ -62,8 +62,10 @@
 </div>
 
 # teste    
-<div display="flex" >
+<div align="center" >
+ <div style="display: flex;">
     <h5>elemento</h5>
     <h5>elemento</h5>
     <h5>elemento</h5>
+ <div>
 </div>
