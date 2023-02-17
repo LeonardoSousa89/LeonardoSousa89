@@ -4,10 +4,11 @@
 
 <h3 align="center">I'm a Fullstack web/mobile Developer from Brazil</h3>
   
-
+<div align="center">
 ![age](https://img.shields.io/badge/age-33-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Salvador-3c9)
+</div>
 
 <br />
 
