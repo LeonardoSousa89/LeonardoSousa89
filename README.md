@@ -14,7 +14,7 @@
 
 <br>
 
-## 👨‍💻 Languages and Tools
+### 👨‍💻 Languages and Tools
 
 <div align="center">
 
@@ -50,6 +50,8 @@
 </div>        
 
 </div>
+
+<br>
 
 # :busts_in_silhouette: Social Network
 
