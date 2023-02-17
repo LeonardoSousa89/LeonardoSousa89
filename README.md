@@ -51,7 +51,7 @@
 
 </div>
 
-## :busts_in_silhouette: Social Network
+# :busts_in_silhouette: Social Network
 
 <div align="center">
 
