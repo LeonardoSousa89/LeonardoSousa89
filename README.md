@@ -8,9 +8,6 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Salvador-3c9)
 
-<br />
-
-
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
@@ -42,29 +39,13 @@
     <h3>Tests</h3>
 </div>
 
-<h2>
+<div>
     <h3>Technical knowledge</h3>
-</h2>        
-
-<br>
-
-<!-- <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> -->
+</div>        
 
 </div>
 
-<br >
-
-<!-- ## 🏆 Github Status -->
-
-<!-- <img  src="https://github-readme-stats.vercel.app/api?username=victorlpgazolli&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=victorlpgazolli&theme=dark" width="45%" > -->
-
-<br>
+## Social Network
 
 <div align="center">
 
