@@ -20,6 +20,8 @@
 <div>
     <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
+    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
+    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
 <div>
 
 <div>
@@ -59,11 +61,4 @@
 
 [<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:leoprofessionallogytech@outlook.com)
 
-</div>
-
-# teste    
-<div align="center" >
-    <h5 align=top>elemento</h5>
-    <h5 align=top>elemento</h5>
-    <h5 align=top>elemento</h5>
 </div>
