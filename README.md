@@ -1,3 +1,7 @@
+<!-- https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
+<!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
+
+
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center"> Hey! I'm Leonardo Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
@@ -7,6 +11,8 @@
 ![age](https://img.shields.io/badge/age-33-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Salvador-3c9)
+
+<br>
 
 ## 👨‍💻 Languages and Tools
 
