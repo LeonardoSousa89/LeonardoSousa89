@@ -52,7 +52,7 @@
 # :busts_in_silhouette: Social Network
 
 <!-- <div align="center"> -->
-<div style="display:flex">
+<div style="display:flex;justify-content:center;">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardo-dos-santos-sousa-238651173/)
 
