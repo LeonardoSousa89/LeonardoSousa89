@@ -16,8 +16,6 @@
 
 # 👨‍💻 Languages and Tools
 
-<div align="center">
-
 <div>
     <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
@@ -48,8 +46,6 @@
 <div>
     <h3>Technical knowledge</h3>
 </div>        
-
-</div>
 
 <br>
 
