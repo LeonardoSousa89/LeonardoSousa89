@@ -60,9 +60,10 @@
 
 <div>
     <h3>Technical knowledge</h3>
-    - SO
-      - [](<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Flinux.png?alt=media&token=a4bd5906-1c46-4ec8-a77f-8f2afbef64cc" height="40" width="40">)
-      - [](<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Fwindows.png?alt=media&token=723e9407-7f9c-4338-aa67-84d59de978a4" height="40" width="40">)
+    <br>
+    <h4>SO</h4>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Flinux.png?alt=media&token=a4bd5906-1c46-4ec8-a77f-8f2afbef64cc" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Fwindows.png?alt=media&token=723e9407-7f9c-4338-aa67-84d59de978a4" height="40" width="40">
 </div>        
 
 <br>
