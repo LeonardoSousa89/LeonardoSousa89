@@ -6,7 +6,7 @@
   
 
 ![age](https://img.shields.io/badge/age-33-blue)
-![focus](https://img.shields.io/badge/focus-ReactNative)
+![focus](https://img.shields.io/badge/focus-FullStack-Devops/Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Salvador-3c9)
 
 <br />
