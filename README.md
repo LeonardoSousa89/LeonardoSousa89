@@ -50,3 +50,15 @@
 </div>        
 
 </div>
+
+## :busts_in_silhouette: Social Network
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardo-dos-santos-sousa-238651173/)
+
+[<img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/LeonardoSousa89)
+
+[<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:leoprofessionallogytech@outlook.com)
+
+</div>
