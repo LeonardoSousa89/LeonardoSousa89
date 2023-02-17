@@ -15,29 +15,29 @@
 
 <div align="center">
 
-<h4>Database 
+<h2>Database 
     <h5>db</h5>
-</h4>  
+</h2>  
 
-<h4>Backend
+<h2>Backend
     <h5>db</h5>
-</h4>
+</h2>
 
-<h4>Frontend
+<h2>Frontend
     <h5>db</h5>
-</h4>
+</h2>
 
-<h4>DevOps
+<h2>DevOps
     <h5>db</h5>
-</h4>
+</h2>
 
-<h4>Tests
+<h2>Tests
     <h5>db</h5>
-</h4>
+</h2>
 
-<h4>Technical knowledge
+<h2>Technical knowledge
     <h5>db</h5>
-</h4>        
+</h2>        
 <!-- <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/css.png?raw=true" height="60" width="60">
