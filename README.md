@@ -51,7 +51,7 @@
 
 </div>
 
-<br >
+</div>
 
 ## :busts_in_silhouette: Social Network
 
@@ -62,6 +62,5 @@
 [<img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/LeonardoSousa89)
 
 [<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:leoprofessionallogytech@outlook.com)
-
 
 </div>
