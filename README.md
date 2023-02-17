@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey! I'm Leonardo Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Fullstack web/mobile Developer from Brazil</h3>
+<h3 align="center">I'm a Fullstack web/mobile Developer/Devops from Brazil</h3>
   
 ![age](https://img.shields.io/badge/age-33-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -14,7 +14,30 @@
 ## 👨‍💻 Languages and Tools
 
 <div align="center">
-  
+
+<h4>Database 
+    <h5>db</h5>
+</h4>  
+
+<h4>Backend
+    <h5>db</h5>
+</h4>
+
+<h4>Frontend
+    <h5>db</h5>
+</h4>
+
+<h4>DevOps
+    <h5>db</h5>
+</h4>
+
+<h4>Tests
+    <h5>db</h5>
+</h4>
+
+<h4>Technical knowledge
+    <h5>db</h5>
+</h4>        
 <!-- <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
 <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/css.png?raw=true" height="60" width="60">
