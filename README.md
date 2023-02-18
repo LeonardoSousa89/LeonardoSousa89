@@ -93,7 +93,7 @@
 
 <br>
 
-# :busts_in_silhouette: Social Network
+# :busts_in_silhouette: Social Network and Contact
 
 <div align="center">
 
