@@ -7,7 +7,7 @@
 
 <h1 align="center"> Hey! I'm Leonardo Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Fullstack web/mobile Developer/Devops from Brazil</h3>
+<h3 align="center">I'm a Fullstack web/mobile Developer/Devops and post graduate latu sensu in software enginer from mobile devices from Brazil</h3>
   
 ![age](https://img.shields.io/badge/age-33-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
