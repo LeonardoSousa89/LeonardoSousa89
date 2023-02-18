@@ -63,6 +63,11 @@
 </div>
 
 <div>
+ <h3>Mobile</h3>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Freact.png?alt=media&token=2563d0f8-e8f8-4edf-a80a-64073ee65110" height="40" width="40">
+</div>
+
+<div>
     <h3>DevOps</h3>
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fdocker.png?alt=media&token=144ffcb0-422a-4915-85e5-345753285593" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fkubernetes-icon.png?alt=media&token=8c9ce744-12c0-4e2f-b1de-8f363226c748" height="40" width="40">
