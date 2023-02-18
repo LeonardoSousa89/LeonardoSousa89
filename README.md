@@ -36,7 +36,7 @@
 
 <div>
     <h3>Languages</h3>
-    <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FJS.png?alt=media&token=d06dd4da-c720-4f26-a0dc-a9525202cd26" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ftypescript.png?alt=media&token=9ab12670-544f-4817-a06b-ada54a3b1519" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fjava.png?alt=media&token=66420305-e9bd-4e11-98bb-fc63449a8319" height="40" width="40">
 <div>
