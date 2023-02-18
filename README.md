@@ -20,6 +20,7 @@
 <div>
     <h3>Ide</h3>
        <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fvs.png?alt=media&token=7bc284a8-6aa5-4bb2-a36c-217390517011" height="40" width="40">
+       <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FPapirus-Team-Papirus-Apps-Eclipse.512.png?alt=media&token=ab4414a0-771b-48fb-b4f0-6bb2b35d757e" height="40" width="40">
 </div>
 
 <div>
@@ -44,18 +45,24 @@
     <h3>Frontend</h3>
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fhtml.png?alt=media&token=d15cc606-b528-47b2-918f-1c02131d4ea6" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fcss.png?alt=media&token=8f9eb525-eb8d-4a35-b9cd-7ad14dab89da" height="40" width="40">
-     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Freact.png?alt=media&token=2563d0f8-e8f8-4edf-a80a-64073ee65110" height="40" width="40">
-     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FAngular.png?alt=media&token=14619dfd-2b03-42c1-989d-33cd74e92e5d" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-sass-48.png?alt=media&token=80aa8479-9e33-4513-9cb1-be8f74417bc6" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Freact.png?alt=media&token=2563d0f8-e8f8-4edf-a80a-64073ee65110" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FAngular.png?alt=media&token=14619dfd-2b03-42c1-989d-33cd74e92e5d" height="40" width="40">
 </div>
 
 <div>
     <h3>DevOps</h3>
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fdocker.png?alt=media&token=144ffcb0-422a-4915-85e5-345753285593" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fgit.png?alt=media&token=dd8a72c0-96f9-4d80-8cae-d2b3a9a23270" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fgithub.png?alt=media&token=2ff410af-e73e-4b8d-b6ac-1438a25253ab" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-heroku-48.png?alt=media&token=e2e8cf2f-6b13-49c0-8a38-3267c65b6f9b" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-amazon-web-services-48.png?alt=media&token=a6cabcbf-9d49-424d-ada6-86b3a2c43fc4" height="40" width="40">
 </div>
 
 <div>
     <h3>Test</h3>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2F49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png?alt=media&token=c4cc21b9-59ff-4afc-baa4-acb92a8a0842" height="40" width="40">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-jest-can-collect-code-coverage-information-from-entire-projects-24.png?alt=media&token=bfd27497-3954-487a-a94c-42f7b757425a" height="40" width="40">
 </div>
 
 <div>
