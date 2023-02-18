@@ -30,6 +30,11 @@
 </div>
 
 <div>
+ <h3>Design</h3>
+    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2F5968705.png?alt=media&token=30c3c573-11c4-4ccc-9ef0-d899d6caa123" height="40" width="40">
+</div>
+
+<div>
     <h3>Languages</h3>
     <img src="https://github.com/victorlpgazolli/victorlpgazolli/blob/master/logos/JS.png?raw=true" height="40" width="40">
     <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ftypescript.png?alt=media&token=9ab12670-544f-4817-a06b-ada54a3b1519" height="40" width="40">
