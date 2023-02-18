@@ -3,7 +3,7 @@
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/wallpaper%2Fheader_.png?alt=media&token=1e8bb718-d3eb-490f-8ccb-d5c389e383d5)
 
 <h1 align="center"> Hey! I'm Leonardo Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
