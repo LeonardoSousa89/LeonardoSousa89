@@ -1,0 +1,40 @@
+@import '../../../estilos/index.scss';
+
+.body{
+    @include display(flex, column, center, center, none, none, none);
+
+    background: linear-gradient(150deg, $light 25%, $smoke 75% );
+    
+    .leonardo{
+        background:$light;
+        box-shadow: 0 0 60px rgba($color: #000000, $alpha: 0.5);
+        padding: 1vh;
+        @include dimension($small_width, $full_height);
+    
+        @include display(grid, 
+                         none, 
+                         none, 
+                         none, 
+                         1fr, 
+                         30% 50% 20%, 
+                        'header header'
+                        'main main'
+                        'footer footer');
+    
+        app-header{
+            // @include test(1px solid blue);
+            grid-area: header;
+        }
+    
+        main{
+            // @include test(1px solid black);
+            @include display(flex, column, space-evenly, center, none, none, none);
+            grid-area: main;
+        }
+    
+        app-footer{ 
+            // @include test(1px solid pink);
+            grid-area: footer;
+        }
+    }
+}

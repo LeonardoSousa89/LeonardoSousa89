@@ -1,0 +1,18 @@
+@import '../../../estilos/index.scss';
+
+
+.mensagem{
+    @include display(flex, row, center, center, none, none, none);
+    img{
+        
+    }
+}
+
+.social{
+    @include display(flex, row, space-evenly, center, none, none, none);
+
+    .midia_social{
+        @include dimension($width_medium, $height_medium);
+        cursor:$pointer;
+    }
+}

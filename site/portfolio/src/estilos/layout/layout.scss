@@ -1,0 +1,71 @@
+$hundred_pixel:100px;
+
+$grid:grid;
+$flex:flex;
+
+$small_width:60vw;
+$medium_width:80vw;
+$full_width:100vw;
+$small_height:60vh;
+$medium_height:80vh;
+$full_height:100vh;
+
+$hidden:hidden;
+
+$font_small:small;
+$font_medium:medium;
+$font_large:large;
+$font_larger:larger;
+
+$width_small:40px;
+$width_medium:60px;
+$width_large:100px;
+$width_larger:150px;
+$height_small:40px;
+$height_medium:60px;
+$height_large:100px;
+$height_larger:150px;
+
+$light:#fff;
+$ocean:#0367A6;
+$dark:#000000;
+$smoke:#D9D9D9;
+$dark_light:whitesmoke;
+
+$pointer:pointer;
+
+$none:none;
+
+@mixin test($border){
+    border: $border;
+}
+
+@mixin dimension($width, $height){
+    width: $width;
+    height: $height;
+}
+
+//As variáveis não utilizadas set 0 ou none
+@mixin display( $display,
+                $flex_direction, 
+                $justify-content, 
+                $align_items,
+                $grid_template_columns,
+                $grid_template_rows,
+                $grid_template_areas) {
+    
+    @if $display == $flex {
+
+        display: $display;
+        flex-direction: $flex_direction;
+        justify-content: $justify-content;
+        align-items: $align_items;
+
+    }@if $display == $grid {
+
+        display: $display;
+        grid-template-columns: $grid_template_columns;
+        grid-template-rows: $grid_template_rows;
+        grid-template-areas: $grid_template_areas;
+    }
+}

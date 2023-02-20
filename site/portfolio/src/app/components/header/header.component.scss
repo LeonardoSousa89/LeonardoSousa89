@@ -1,0 +1,12 @@
+@import '../../../estilos/index.scss';
+
+.header{
+
+    margin-top: $hundred_pixel;
+    @include display(flex, row, center, center, none, none, none);
+
+    .titulo{
+        font-size: calc($hundred_pixel * 0.6);
+        color: $ocean;
+    }
+}
