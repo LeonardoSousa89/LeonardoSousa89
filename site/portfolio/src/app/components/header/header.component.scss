@@ -3,6 +3,7 @@
 .header{
 
     margin-top: $hundred_pixel;
+
     @include display(flex, row, center, center, none, none, none);
 
     .titulo{
