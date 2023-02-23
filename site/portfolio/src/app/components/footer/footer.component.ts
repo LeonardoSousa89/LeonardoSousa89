@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit{
 
-  private dom: Document=document
+  private document_window: Window=window
 
   private redes_sociais={
       linkedin: 'https://www.linkedin.com/in/leonardo-dos-santos-sousa-238651173/',
@@ -19,7 +19,7 @@ export class FooterComponent implements OnInit{
   ngOnInit(): void {}
 
   public targetLink(link: string): void{
-    this.dom.location.href=link
+    this.document_window.open(link)
   }
 
   public targetLinkedin(): void{
