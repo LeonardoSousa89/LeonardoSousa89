@@ -38,17 +38,13 @@
 
                 // @include test(1px solid goldenrod);
                 @include dimension($hundred_percent, calc($hundred_percent * 0.8));
-                @include display($flex, column, space-evenly, $center, $none, $none, $none);
+                @include display($flex, column, space-between, $center, $none, $none, $none);
                 font-size: calc($hundred_pixel * 0.4);
                 cursor: $pointer; 
-            }
-            .page-form{
 
-                // @include test(1px solid gold);
-                @include dimension($hundred_percent, calc($hundred_percent * 0.2));
-                font-size: calc($hundred_pixel * 0.4);  
-                text-align: $center;
-                cursor: $pointer;   
+                #link_page{
+                    margin-top: calc($hundred_percent * 0.05);
+                }
             }
 
             .link_page{
