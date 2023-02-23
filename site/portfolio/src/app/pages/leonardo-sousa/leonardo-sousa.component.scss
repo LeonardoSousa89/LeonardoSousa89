@@ -50,6 +50,19 @@
                 text-align: $center;
                 cursor: $pointer;   
             }
+
+            .link_page{
+                transition: all;
+                transition-duration: 0.3s;
+
+                &:hover{
+                    text-align: $center;
+                    background: $ocean;
+                    width: $hundred_percent;
+                    color: $dark_light;
+                    padding: 0.2vh;
+                }
+            }
         }
     
         app-footer{ 
