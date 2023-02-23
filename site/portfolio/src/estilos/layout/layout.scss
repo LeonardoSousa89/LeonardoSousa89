@@ -1,4 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Miniver&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400&display=swap');
+
+$font_miniver:'Miniver', cursive;
+$font_inter:'Inter', sans-serif;
+
 $hundred_pixel:100px;
+$hundred_percent:100%;
+$half_hundred_percent:50%;
 
 $grid:grid;
 $flex:flex;
@@ -36,6 +44,8 @@ $pointer:pointer;
 
 $none:none;
 
+$center:center;
+
 @mixin test($border){
     border: $border;
 }
@@ -45,7 +55,7 @@ $none:none;
     height: $height;
 }
 
-//As variáveis não utilizadas set 0 ou none
+//As variáveis não utilizadas set como 0 ou none
 @mixin display( $display,
                 $flex_direction, 
                 $justify-content, 

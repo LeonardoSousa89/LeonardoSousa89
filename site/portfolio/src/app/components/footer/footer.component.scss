@@ -1,18 +1,30 @@
 @import '../../../estilos/index.scss';
 
+.footer{
 
-.mensagem{
-    @include display(flex, row, center, center, none, none, none);
-    img{
+    // @include test(1px solid $dark);
+    height:$hundred_percent;
+
+
+    .mensagem{
+        height:calc($hundred_percent * 0.5);
+        // @include test(1px solid red);
+        @include display($flex, row, $center, $center, $none, $none, $none);
         
+        h3{
+            color: $ocean;
+            font-size: calc($hundred_pixel * 0.2);
+        }
     }
-}
-
-.social{
-    @include display(flex, row, space-evenly, center, none, none, none);
-
-    .midia_social{
-        @include dimension($width_medium, $height_medium);
-        cursor:$pointer;
+    
+    .social{
+        height:calc($hundred_percent * 0.5);
+        // @include test(1px solid darkred);
+        @include display($flex, row, space-evenly, $center, $none, $none, $none);
+    
+        .midia_social{
+            @include dimension($width_medium, $height_medium);
+            cursor:$pointer;
+        }
     }
 }

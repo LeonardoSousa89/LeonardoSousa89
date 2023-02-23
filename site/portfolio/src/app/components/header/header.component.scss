@@ -2,9 +2,9 @@
 
 .header{
 
-    margin-top: $hundred_pixel;
+    margin-top: calc($hundred_pixel * 0.5);
 
-    @include display(flex, row, center, center, none, none, none);
+    @include display($flex, row, $center, $center, $none, $none, $none);
 
     .titulo{
         font-size: calc($hundred_pixel * 0.6);
