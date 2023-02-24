@@ -21,12 +21,27 @@
     
         .midia_social{
 
-            @media(max-width: 500px){
-                @include dimension($width_small, $height_small);      
-            }
-
             @include dimension($width_medium, $height_medium);
             cursor:$pointer;
+
+            transition: all;
+            transition-duration: 0.2s;
+
+            &:hover{
+                @include dimension(calc($hundred_pixel * 0.7), calc($hundred_pixel * 0.7));
+            }
+
+            
+            @media(max-width: 500px){
+                @include dimension($width_small, $height_small); 
+
+                
+                &:hover{
+                    @include dimension(calc($hundred_pixel * 0.5), calc($hundred_pixel * 0.5));
+                }
+            }
+
+            
         }
     }
 }
