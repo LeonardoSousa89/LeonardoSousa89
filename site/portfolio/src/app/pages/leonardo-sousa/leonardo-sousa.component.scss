@@ -6,6 +6,15 @@
     background: linear-gradient(150deg, $light 25%, $smoke 75% );
 
     .leonardo{
+
+        @media (max-width: 1024px){
+            @include dimension($medium_width, $full_height);
+        }
+
+        @media (max-width: 768px){
+            @include dimension($full_width, $full_height);
+        }
+
         background:$light;
         box-shadow: 0 0 60px rgba($color: #000000, $alpha: 0.5);
         padding: 1vh;
@@ -23,23 +32,29 @@
                         'footer footer');
     
         app-header{
-            // @include test(1px solid blue);
             grid-area: header;
         }
     
         main{
-            // @include test(1px solid black);
             @include display($flex, column, space-evenly, $center, $none, $none, $none);
+
             grid-area: main;
 
             color: $ocean;
 
             .pages{
 
-                // @include test(1px solid goldenrod);
-                @include dimension($hundred_percent, calc($hundred_percent * 0.8));
-                @include display($flex, column, space-between, $center, $none, $none, $none);
+                @media (max-width: 500px){
+                    .link_page{
+                        font-size: calc($hundred_pixel * 0.3);
+                    }
+                }
+
+                @include dimension($hundred_percent, $hundred_percent);
+                @include display($flex, column, space-evenly, $center, $none, $none, $none);
+                
                 font-size: calc($hundred_pixel * 0.4);
+
                 cursor: $pointer; 
 
                 #link_page{
@@ -62,7 +77,6 @@
         }
     
         app-footer{ 
-            // @include test(1px solid #0367A6);
             grid-area: footer;
         }
     }

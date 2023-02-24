@@ -9,5 +9,10 @@
     .titulo{
         font-size: calc($hundred_pixel * 0.6);
         color: $ocean;
+
+        @media (max-width: 500px){
+            font-size: calc($hundred_pixel * 0.4);    
+        }
+
     }
 }
