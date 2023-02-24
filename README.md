@@ -105,4 +105,6 @@
 
 [<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:leoprofessionallogytech@outlook.com)
 
+[<img src="https://img.shields.io/badge/site-%231877F2.svg?&style=for-the-badge&logo=site&logoColor=white&color=green">](https://leonardo-sousa.netlify.app/)
+
 </div>
