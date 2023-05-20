@@ -1,80 +1,93 @@
 @import '../../../estilos/index.scss';
 
-
-header{
-    @media(max-width: 640px){
-        height: 30vh;
-    }
-
-    // border: solid 1px red;
-        height: 50vh;
-
-        @include display($flex, column, $center, $center, $none, $none, $none);
-        img{
-            height: 300px;
-        }
-}
-main{
-    @media(max-width: 640px){
-        height: 65vh;
-    }
-
-    // border: solid 1px goldenrod;
-    height: 40vh;
+.body{
     @include display($flex, column, $center, $center, $none, $none, $none);
-    
-    div{
-        overflow: hidden;
 
-        @media(max-width: 640px){
-            width: 390px;
-            height: 654px;
+    background: linear-gradient(150deg, $light 25%, $smoke 75% );
+
+    .leonardo{
+
+        @media (max-width: 1024px){
+            @include dimension($medium_width, $hundred_percent);
+        }
+
+        @media (max-width: 768px){
+            @include dimension($full_width, $hundred_percent);
+        }
+        
+        background:$light;
+        box-shadow: 0 0 60px rgba($color: #000000, $alpha: 0.5);
+        padding: 1vh;
+
+        @include dimension($small_width, $full_height);
+
+        header{
+            // border: solid 1px red;
+                height: 50vh;
+        
+                @include display($flex, column, $center, $center, $none, $none, $none);
+                img{
+                    height: 300px;
+                }
+        }
+        main{
+            @media(max-width: 640px){
+                height: 70vh;
+            }
+        
+            // border: solid 1px goldenrod;
+            height: 50vh;
+            @include display($flex, column, $center, $center, $none, $none, $none);
             
-            strong{
-                font-size: x-large;
+            .container{
+                // border: solid 1px darkblue;
+                @media(max-width: 640px){
+                    width: 100%;
+                    align-items: $center;
+                }
+                
+                height: 100%;
+
+                overflow: hidden;
+                @include display($flex, column, space-evenly, start, $none, $none, $none);
+                
+                div{
+                    @media(max-width: 640px){
+                        padding: 10px;
+                        height: 300px;
+                    }
+                
+                    //não está respondendo
+                    @media(max-width: 640px) and (position: landscape ){
+                      display: $none;
+                    }
+            
+                    width: 510px; 
+                    height: 204px;
+                    
+                    background: rgba(3, 103, 166, 0.1);
+            
+                    @include display($flex, column, $center, $center, $none, $none, $none);
+                
+                    padding: 20px;
+                    color: #0367A6;
+            
+                    strong{
+                        a{
+                            text-decoration: $none;
+                            color: rgba($color: darkred, $alpha: 0.6);
+                            cursor: $pointer;
+                        }
+                    }
+                }
+
+                img{
+                    cursor: $pointer;
+                }
             }
         }
 
-        position: absolute;
-        width: 510px; 
-        height: 204px;
-        
-        background: rgba(3, 103, 166, 0.1);
-
-        @include display($flex, column, $center, $center, $none, $none, $none);
     
-        padding: 10px;
-        color: #0367A6;
     }
-}
-footer{
-    @media(max-width: 640px){
-      height: 5vh;
-    }
-
-    // border: solid 1px darkblue;
-
-    height: 10vh;
-
-    @include display($flex, column, $center, $center, $none, $none, $none);
-
-   div{
-    @media(max-width: 880px){
-        width: 75%;    
-        img{
-            height: 30px;
-        }  
-    }
-
-    @media(max-width: 481px){
-        width: 90%;  
-    }
-
-    // border: solid 1px darkcyan;
-    width: 50%;
-
-     img{
-        cursor: $pointer;
-     }
-   }
+    
 }
