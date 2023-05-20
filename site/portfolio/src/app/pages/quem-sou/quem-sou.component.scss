@@ -14,7 +14,7 @@
         @media (max-width: 768px){
             @include dimension($full_width, $hundred_percent);
         }
-        
+
         background:$light;
         box-shadow: 0 0 60px rgba($color: #000000, $alpha: 0.5);
         padding: 1vh;
@@ -24,7 +24,13 @@
         header{
             // border: solid 1px red;
                 height: 50vh;
-        
+
+                @media(max-width: 381px){
+                    .eu{
+                        height: 200px;
+                    }
+                }
+
                 @include display($flex, column, $center, $center, $none, $none, $none);
                 img{
                     height: 300px;
@@ -34,7 +40,15 @@
             @media(max-width: 640px){
                 height: 70vh;
             }
-        
+
+            @media(max-width: 560px){
+                height: 90vh;
+            }
+            
+            @media(max-width: 381px){
+                height: 110vh;
+            }
+
             // border: solid 1px goldenrod;
             height: 50vh;
             @include display($flex, column, $center, $center, $none, $none, $none);
@@ -53,10 +67,20 @@
                 
                 div{
                     @media(max-width: 640px){
-                        padding: 10px;
+                        overflow-y: scroll;
+                        padding: 30px;
                         height: 300px;
+                        width: 60%;
                     }
-                
+                    
+                    @media(max-width: 560px){
+                        height: 450px;
+                    }
+                    
+                    @media(max-width: 381px){
+                        height: 550px;
+                    }
+        
                     //não está respondendo
                     @media(max-width: 640px) and (position: landscape ){
                       display: $none;
@@ -83,6 +107,8 @@
 
                 img{
                     cursor: $pointer;
+                    margin-right: 65%;
+                    // border: solid 1px black;
                 }
             }
         }
