@@ -1,110 +1,204 @@
-<!-- https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
+<h1 align="center">
+  Hi, I'm Leonardo Sousa 👋
+</h1>
 
-<!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
+<p align="center">
+  <a href="https://leonardosousa.dev.br">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Developer;Web+%26+Mobile+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;Building+software+with+engineering+in+mind"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://leonardosousa.dev.br">
+    <img src="https://img.shields.io/badge/Portfolio-leonardosousa.dev.br-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-dos-santos-sousa-238651173/">
+    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Sousa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:leoprofessionallogytech@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+  </a>
+</p>
 
-![](https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/wallpaper%2Fheader_.png?alt=media&token=1e8bb718-d3eb-490f-8ccb-d5c389e383d5)
+---
 
-<h1 align="center"> Hey! I'm Leonardo Sousa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+## 👨‍💻 About Me
 
-<h3 align="center">I'm a Fullstack web/mobile Developer/Devops and post graduate latu sensu in software enginer from mobile devices from Brazil</h3>
-  
-![age](https://img.shields.io/badge/age-33-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Salvador-3c9)
+I'm a **Software Developer from Brazil** focused on building reliable, maintainable and scalable software for **Web and Mobile platforms**.
 
-<br>
+I work across different stages of software development, from architecture and implementation to testing, deployment and production observability.
 
-# 👨‍💻 Languages and Tools
+🎓 **Postgraduate (Lato Sensu) in Software Engineering for Mobile Devices**
 
-<br>
+💻 Focused on **Full Stack Development, Web, Mobile and Backend Engineering**
 
-## Ide
-<div>
-       <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fvs.png?alt=media&token=7bc284a8-6aa5-4bb2-a36c-217390517011" height="40" width="40">
-       <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FPapirus-Team-Papirus-Apps-Eclipse.512.png?alt=media&token=ab4414a0-771b-48fb-b4f0-6bb2b35d757e" height="40" width="40">
-</div>
+🧠 Interested in **Software Architecture, Clean Code, Testing, DevOps and Observability**
 
-## Project management
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/management%2Fswaggerhub-logo.png?alt=media&token=b91cfcfb-8432-4dcf-9ee3-179cc0914347" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/management%2Ftrello.png?alt=media&token=06152425-7232-4dbf-9e48-65635d1dca65" height="40" width="40">
-</div>
+🚀 Always learning, experimenting and improving the way software is designed and delivered.
 
-## Design
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2F5968705.png?alt=media&token=30c3c573-11c4-4ccc-9ef0-d899d6caa123" height="40" width="40">
-</div>
+---
 
-## Languages
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FJS.png?alt=media&token=d06dd4da-c720-4f26-a0dc-a9525202cd26" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ftypescript.png?alt=media&token=9ab12670-544f-4817-a06b-ada54a3b1519" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fjava.png?alt=media&token=66420305-e9bd-4e11-98bb-fc63449a8319" height="40" width="40">
-<div>
+## ⚡ What I Do
 
-## Database
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fpostgre.png?alt=media&token=029ef51f-325b-4d43-81b5-7b486a412e1e" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fmysql.png?alt=media&token=0a067a57-1feb-415e-95d6-bd4b9efb3082" height="40" width="40">
-</div>  
+<table>
+<tr>
+<td width="50%">
 
-## Backend
-<div>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-spring-boot-48.png?alt=media&token=fca404c7-12ce-4a74-9583-b02f086c8de1" height="40" width="40">
-</div>
+### 🖥️ Web Development
 
-## Frontend
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fhtml.png?alt=media&token=d15cc606-b528-47b2-918f-1c02131d4ea6" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fcss.png?alt=media&token=8f9eb525-eb8d-4a35-b9cd-7ad14dab89da" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-sass-48.png?alt=media&token=80aa8479-9e33-4513-9cb1-be8f74417bc6" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Freact.png?alt=media&token=2563d0f8-e8f8-4edf-a80a-64073ee65110" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2FAngular.png?alt=media&token=14619dfd-2b03-42c1-989d-33cd74e92e5d" height="40" width="40">
-</div>
+- Modern web applications
+- React & Next.js
+- TypeScript
+- Responsive interfaces
+- SSR applications
+- API integration
 
-## Mobile
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Freact.png?alt=media&token=2563d0f8-e8f8-4edf-a80a-64073ee65110" height="40" width="40">
-</div>
+</td>
 
-## DevOps
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fdocker.png?alt=media&token=144ffcb0-422a-4915-85e5-345753285593" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fkubernetes-icon.png?alt=media&token=8c9ce744-12c0-4e2f-b1de-8f363226c748" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fgit.png?alt=media&token=dd8a72c0-96f9-4d80-8cae-d2b3a9a23270" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fgithub.png?alt=media&token=2ff410af-e73e-4b8d-b6ac-1438a25253ab" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-heroku-48.png?alt=media&token=e2e8cf2f-6b13-49c0-8a38-3267c65b6f9b" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-amazon-web-services-48.png?alt=media&token=a6cabcbf-9d49-424d-ada6-86b3a2c43fc4" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fjenkins_logo_icon_170552.png?alt=media&token=f032b13f-9a2e-434c-bd94-cd1dad909f0f" height="40" width="40">
-</div>
+<td width="50%">
 
-## Test
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2F49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png?alt=media&token=c4cc21b9-59ff-4afc-baa4-acb92a8a0842" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Ficons8-jest-can-collect-code-coverage-information-from-entire-projects-24.png?alt=media&token=bfd27497-3954-487a-a94c-42f7b757425a" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/skills%2Fpostman-icon.png?alt=media&token=ccc7cf96-04f6-4546-bfa6-91adf404bc42" height="40" width="40">
-</div>
+### 📱 Mobile Development
 
-## SO
-<div>
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Flinux.png?alt=media&token=a4bd5906-1c46-4ec8-a77f-8f2afbef64cc" height="40" width="40">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-b826d.appspot.com/o/SO%2Fwindows.png?alt=media&token=723e9407-7f9c-4338-aa67-84d59de978a4" height="40" width="40">
-</div>        
+- React Native
+- Cross-platform applications
+- Mobile-oriented architecture
+- API integration
+- Application performance
 
-<br>
+</td>
+</tr>
 
-# :busts_in_silhouette: Social Network and Contact
+<tr>
+<td width="50%">
 
-<div align="center">
+### ⚙️ Backend Engineering
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/leonardo-dos-santos-sousa-238651173/)
+- Node.js
+- Express
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
+- Redis
 
-[<img src="https://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black">](https://github.com/LeonardoSousa89)
+</td>
 
-[<img src="https://img.shields.io/badge/email-%231877F2.svg?&style=for-the-badge&logo=email&logoColor=white&color=red">](mailto:leoprofessionallogytech@outlook.com)
+<td width="50%">
 
-[<img src="https://img.shields.io/badge/site-%231877F2.svg?&style=for-the-badge&logo=web&logoColor=white&color=darkred">](https://leonardo-sousa.netlify.app/)
+### 🚀 Engineering & DevOps
 
-</div>
+- Docker
+- Kubernetes
+- AWS
+- Jenkins
+- Git & GitHub
+- Automated testing
+- Production monitoring
+- Observability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technologies & Tools
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff" alt="Java">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff" alt="Angular">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="Sass">
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff" alt="Spring Boot">
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis">
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff" alt="AWS">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=ffffff" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+</p>
+
+### Testing & API
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" alt="Jest">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=69D3A7" alt="Cypress">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000000" alt="Swagger">
+</p>
+
+---
+
+## 🏗️ How I Think About Software
+
+For me, software development is more than writing code.
+
+```text
+┌─────────────────────┐
+│     Requirements    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│      Architecture   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    Implementation   │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│       Testing       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│     Deployment      │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    Observability    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Continuous Evolution│
+└─────────────────────┘
